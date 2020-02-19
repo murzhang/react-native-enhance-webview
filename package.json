@@ -1,0 +1,62 @@
+{
+  "_from": "react-native-enhance-webview",
+  "_id": "react-native-enhance-webview@0.0.2",
+  "_inBundle": false,
+  "_integrity": "sha512-TLmqp0HlPSz7zJoFIJ1mRtfzrIuNXCC8TiGjVJiRD1Q9RQ/7q1EpZGD60wFLlKBSR7HYriSt6j1NgQCBfSfixw==",
+  "_location": "/react-native-enhance-webview",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-enhance-webview",
+    "name": "react-native-enhance-webview",
+    "escapedName": "react-native-enhance-webview",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-enhance-webview/-/react-native-enhance-webview-0.0.2.tgz",
+  "_shasum": "127d35cde0da2b020d36f2aa5591757ce196d132",
+  "_spec": "react-native-enhance-webview",
+  "_where": "d:\\USEABCV2\\SourceCode\\test",
+  "author": {
+    "name": "try",
+    "email": "865068275@qq.com",
+    "url": "https://github.com/TryImpossible"
+  },
+  "bugs": {
+    "url": "https://github.com/TryImpossible/react-native-enhance-webview/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "prop-types": "^15.6.1"
+  },
+  "deprecated": false,
+  "description": "## Getting started",
+  "devDependencies": {
+    "react": "^16.4.0",
+    "react-native": "^0.55.4"
+  },
+  "homepage": "https://github.com/TryImpossible/react-native-enhance-webview#readme",
+  "keywords": [
+    "react-component",
+    "react-native",
+    "webview",
+    "autofocus"
+  ],
+  "license": "ISC",
+  "main": "enhance-webview",
+  "name": "react-native-enhance-webview",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TryImpossible/react-native-enhance-webview.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.2"
+}
