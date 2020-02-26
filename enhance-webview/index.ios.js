@@ -124,7 +124,7 @@ class RNEnhanceWebview extends React.Component {
   }
 
   static propTypes = {
-    ...ViewPropTypes,
+    ...View.propTypes,
     html: deprecatedPropType(
       PropTypes.string,
       'Use the `source` prop instead.'
@@ -260,7 +260,7 @@ class RNEnhanceWebview extends React.Component {
     /**
      * The style to apply to the `WebView`.
      */
-    style: ViewPropTypes.style,
+    style: View.propTypes.style,
 
     /**
      * Determines the types of data converted to clickable URLs in the web view's content.
